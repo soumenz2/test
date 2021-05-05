@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">projectwork</string>
+    <string name="facebook_app_id">453646042391493</string>
+    <string name="fb_login_protocol_scheme">fb453646042391493</string>
+    <string name="server_client_id">94269056626-csjai5tjhchq0gfpe4lluffnk5mhk9sk.apps.googleusercontent.com</string>
+</resources>
